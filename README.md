@@ -158,6 +158,10 @@ This project helps in understanding:
 
 ## Output
 
+<img width="920" height="488" alt="p1" src="https://github.com/user-attachments/assets/cb595d09-a92a-4c9a-951f-463dd7507f40" />
+
+<img width="919" height="523" alt="p2" src="https://github.com/user-attachments/assets/2d3ada92-367e-4d99-8e4b-55b077264ed2" />
+
 <img width="947" height="492" alt="p3" src="https://github.com/user-attachments/assets/a5aec93c-a705-4d91-82bd-f68eb3cdf0e5" />
 
 <img width="936" height="525" alt="p4" src="https://github.com/user-attachments/assets/ec701c39-08f4-4bc8-80a9-bcff10828c20" />
